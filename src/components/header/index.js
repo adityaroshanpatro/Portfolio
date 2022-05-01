@@ -5,7 +5,7 @@ import Web from './web'
 function Header() {
   const [isOpen, setIsOpen] = useState(false);
   return <div className='header'>
-    <div className='logo'>OverReacted</div>
+    <div className='logo'>PortFolio </div>
     <div className='menu'>
       <div className='web-menu'>
         <div>
