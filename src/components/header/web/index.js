@@ -21,7 +21,7 @@ function Web() {
         </div>
         <div className='web-option'>
           <a href='#contact'>
-          <i class="fi-rr-user option-icon"></i>Contact
+          <i class="fi fi-rr-envelope option-icon"></i>Contact
 
           </a>
         </div>
