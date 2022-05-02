@@ -5,7 +5,7 @@ export const ProjectData = [
         title:"Personal PortFolio",
         about:"A lightweight, single-page responsive personal portfolio/website built using ReactJs that showcase Projects, Skills, Professional Experience and Contact.",
         tags:["ReactJS","NodeJS"],
-        demo:"https://example.com",
+        demo:"https://fascinating-syrniki-a00d42.netlify.app/",
         github:"https://github.com/adityaroshanpatro/Portfolio",
         image:"https://www.inkyy.com/wp-content/uploads/2019/08/prew2.png",
     },
