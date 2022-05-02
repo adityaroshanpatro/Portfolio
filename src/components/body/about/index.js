@@ -16,7 +16,6 @@ function About() {
       </div>
       <SocialContact/>
       <div className='about-bottom'>
-         this is contacts
       </div>
     </div>
   )
