@@ -4,11 +4,13 @@ import './social-contact.css';
 function SocialContact() {
   const data=SocialData;
   return (
-    <div>
+    <div className='social-contact'>
         {data.map((item)=>{
           return(
-            <a>
-              
+            <a href={item.link}>
+                <div className='social-icon-div'>
+                  <img src={item.icon} className='social-icon' alt="social_media"/>
+                </div>
             </a>
           )
         })}

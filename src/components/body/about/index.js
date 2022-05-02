@@ -11,7 +11,7 @@ function About() {
          I'm proficient in programming, <br />interested in Software development and Product Management.<br/>I'm passionate about technologies,market, product, business strategies.
          </div>
          <div className='about-photo'>
-            <img src={require('../../../assets/linkedin_img.png')} className='picture'></img>
+            <img src={require('../../../assets/linkedin_img.png')} className='picture' alt="profile_pic"></img>
          </div>
       </div>
       <SocialContact/>
