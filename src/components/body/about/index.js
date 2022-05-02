@@ -1,4 +1,5 @@
 import React from 'react'
+import SocialContact from '../../common/social-contact';
 import './about.css';
 function About() {
   return (
@@ -13,6 +14,7 @@ function About() {
             <img src={require('../../../assets/linkedin_img.png')} className='picture'></img>
          </div>
       </div>
+      <SocialContact/>
       <div className='about-bottom'>
          this is contacts
       </div>
