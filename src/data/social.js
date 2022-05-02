@@ -24,5 +24,10 @@ export const SocialData= [
         icon: require('./../assets/icons/twitter.png'),
         link:"https://twitter.com/RoshanAditya12",
     },
+    {
+        platform:"Gmail",
+        icon: require('./../assets/icons/gmail.png'),
+        link:"adityaroshanpatro@gmail.com",
+    },
     
 ];
