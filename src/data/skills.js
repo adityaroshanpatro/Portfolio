@@ -34,10 +34,6 @@ export const SkillsData = [
         {
           name: "Django",
           icon: <i class="devicon-django-plain colored"></i>,
-        },
-        {
-          name: "Springboot",
-          icon: <i class="devicon-spring-plain colored"></i>,
         }
       ],
     },
